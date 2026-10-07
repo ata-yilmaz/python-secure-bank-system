@@ -16,19 +16,19 @@ A secure, multi-layer desktop banking application built with **Python** and **Tk
 
 | Account Setup | Login Screen |
 | :---: | :---: |
-| ![Setup](screenshots/bank_account_setup.png) | ![Login](screenshots/Login_screen.png) |
+| ![Setup](bank_account_setup.png) | ![Login](Login_screen.png) |
 
 | Error Screen (3 Attempts) | Password Recovery |
 | :---: | :---: |
-| ![Error](screenshots/Error_screen.png) | ![Recovery](screenshots/Password-recovery-screen.png) |
+| ![Error](Error_screen.png) | ![Recovery](Password-recovery-screen.png) |
 
 | Main Menu | Account Balance |
 | :---: | :---: |
-| ![Menu](screenshots/Main_menu.png) | ![Balance](screenshots/Acc_balance.png) |
+| ![Menu](Main_menu.png) | ![Balance](Acc_balance.png) |
 
 | Deposit Panel | Withdraw Panel |
 | :---: | :---: |
-| ![Deposit](screenshots/T_screen.png) | ![Withdraw](screenshots/T_screen2.png) |
+| ![Deposit](T_screen.png) | ![Withdraw](T_screen2.png) |
 
 ---
 
