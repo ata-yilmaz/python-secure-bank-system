@@ -20,7 +20,7 @@ A secure, multi-layer desktop banking application built with **Python** and **Tk
 
 | Error Screen (3 Attempts) | Password Recovery |
 | :---: | :---: |
-| ![Error](Error_screen.png) | ![Recovery](Password-recovery-screen.png) |
+| ![Error](Error_screen.png) | ![Recovery](Password_recovery_screen.png) |
 
 | Main Menu | Account Balance |
 | :---: | :---: |
